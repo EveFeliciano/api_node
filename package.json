@@ -19,7 +19,8 @@
   },
   "homepage": "https://github.com/GuiNakamuraC/api_node#readme",
   "dependencies": {
-    "@prisma/client": "^6.13.0",
+    "@prisma/client": "^6.16.2",
+    "cors": "^2.8.5",
     "express": "^5.1.0"
   },
   "devDependencies": {
